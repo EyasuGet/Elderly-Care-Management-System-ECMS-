@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.example.elderlycare2.presentation.viewmodel.NurseProfileViewModel

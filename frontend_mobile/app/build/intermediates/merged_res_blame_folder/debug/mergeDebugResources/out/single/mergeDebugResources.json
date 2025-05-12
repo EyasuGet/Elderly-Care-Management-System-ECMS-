@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.elderlycare2.app-main-60:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.elderlycare2.app-main-60:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.elderlycare2.app-main-60:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/xml_backup_rules.xml.flat",
+        "source": "com.example.elderlycare2.app-main-60:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/drawable_profile_pic.png.flat",
+        "source": "com.example.elderlycare2.app-main-60:/drawable/profile_pic.png"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.elderlycare2.app-main-60:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/drawable_sugar_level.png.flat",
+        "source": "com.example.elderlycare2.app-main-60:/drawable/sugar_level.png"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/drawable_reliable.png.flat",
+        "source": "com.example.elderlycare2.app-main-60:/drawable/reliable.png"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/drawable_heart_rate.png.flat",
+        "source": "com.example.elderlycare2.app-main-60:/drawable/heart_rate.png"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.elderlycare2.app-main-60:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/drawable_profile.png.flat",
+        "source": "com.example.elderlycare2.app-main-60:/drawable/profile.png"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.elderlycare2.app-main-60:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/drawable_easy.png.flat",
+        "source": "com.example.elderlycare2.app-main-60:/drawable/easy.png"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/drawable_emphatethic.png.flat",
+        "source": "com.example.elderlycare2.app-main-60:/drawable/emphatethic.png"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/drawable_logo.png.flat",
+        "source": "com.example.elderlycare2.app-main-60:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.elderlycare2.app-main-60:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.elderlycare2.app-main-60:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.elderlycare2.app-main-60:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/drawable_blood_pressure.png.flat",
+        "source": "com.example.elderlycare2.app-main-60:/drawable/blood_pressure.png"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.elderlycare2.app-main-60:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/drawable_upload.png.flat",
+        "source": "com.example.elderlycare2.app-main-60:/drawable/upload.png"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.elderlycare2.app-main-60:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.elderlycare2.app-main-60:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/xml_network_security_config.xml.flat",
+        "source": "com.example.elderlycare2.app-main-60:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.elderlycare2.app-main-60:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.elderlycare2.app-main-60:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.elderlycare2.app-main-60:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/drawable_supportive.png.flat",
+        "source": "com.example.elderlycare2.app-main-60:/drawable/supportive.png"
+    },
+    {
+        "merged": "com.example.elderlycare2.app-debug-58:/drawable_file.jpg.flat",
+        "source": "com.example.elderlycare2.app-main-60:/drawable/file.jpg"
+    }
+]
